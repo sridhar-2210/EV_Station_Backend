@@ -4,7 +4,7 @@ const bcrypt=require("bcrypt");
 const jwt=require("jsonwebtoken");
 const gettask =asyncHandler(async(req,res)=>{
  
-    const task=await Task.find();
+    const task=await Task.find().lean();
     res.status(200).json(task);
 
 }
