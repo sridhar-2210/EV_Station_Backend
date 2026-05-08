@@ -78,7 +78,7 @@ To run this server locally, follow these steps:
 
 **Sridhar**
 * **GitHub:** [@sridhar-2210](https://github.com/sridhar-2210)
-* **LinkedIn:** [Insert Your LinkedIn Link]
+* **LinkedIn:** [/vangara-sridhar](https://www.linkedin.com/in/vangara-sridhar/)
 
 ---
 *This backend was engineered to provide a secure and reliable foundation for the next generation of EV infrastructure.*
